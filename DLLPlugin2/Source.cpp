@@ -8,3 +8,4 @@ extern "C"{
 		printf("TEST2\n");
 	}
 }
+
