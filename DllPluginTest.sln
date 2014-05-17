@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllPluginTest", "DllPluginTest\DllPluginTest.vcxproj", "{497A3A63-5FCB-417F-852B-A811FEAAD0C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLPlugin", "DLLPlugin\DLLPlugin.vcxproj", "{11B0205E-8289-452A-BD93-35078B5A28D8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLPlugin2", "DLLPlugin2\DLLPlugin2.vcxproj", "{E8977028-427D-4CF2-9858-AD6485319169}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLPlugin3", "DLLPlugin3\DLLPlugin3.vcxproj", "{22F033BB-732A-4A05-B50A-469549A9AC93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497A3A63-5FCB-417F-852B-A811FEAAD0C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{497A3A63-5FCB-417F-852B-A811FEAAD0C7}.Debug|Win32.Build.0 = Debug|Win32
+		{497A3A63-5FCB-417F-852B-A811FEAAD0C7}.Release|Win32.ActiveCfg = Release|Win32
+		{497A3A63-5FCB-417F-852B-A811FEAAD0C7}.Release|Win32.Build.0 = Release|Win32
+		{11B0205E-8289-452A-BD93-35078B5A28D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11B0205E-8289-452A-BD93-35078B5A28D8}.Debug|Win32.Build.0 = Debug|Win32
+		{11B0205E-8289-452A-BD93-35078B5A28D8}.Release|Win32.ActiveCfg = Release|Win32
+		{11B0205E-8289-452A-BD93-35078B5A28D8}.Release|Win32.Build.0 = Release|Win32
+		{E8977028-427D-4CF2-9858-AD6485319169}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8977028-427D-4CF2-9858-AD6485319169}.Debug|Win32.Build.0 = Debug|Win32
+		{E8977028-427D-4CF2-9858-AD6485319169}.Release|Win32.ActiveCfg = Release|Win32
+		{E8977028-427D-4CF2-9858-AD6485319169}.Release|Win32.Build.0 = Release|Win32
+		{22F033BB-732A-4A05-B50A-469549A9AC93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22F033BB-732A-4A05-B50A-469549A9AC93}.Debug|Win32.Build.0 = Debug|Win32
+		{22F033BB-732A-4A05-B50A-469549A9AC93}.Release|Win32.ActiveCfg = Release|Win32
+		{22F033BB-732A-4A05-B50A-469549A9AC93}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
